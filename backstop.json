@@ -10,6 +10,11 @@
       "label": "tablet",
       "width": 1024,
       "height": 768
+    },
+    {
+      "label": "big_tablet",
+      "width": 1800,
+      "height": 900
     }
   ],
   "onBeforeScript": "puppet/onBefore.js",
