@@ -9,6 +9,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 html {
+  color: #EEE;
+  background: #111;
   font-size: 19px;
   line-height: 24px;
 }
